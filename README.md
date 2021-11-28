@@ -3,7 +3,9 @@ A cheap website service made specifically for Prosper ISD. It's kinda like MySpa
 <br>
 <br>Students can buy a REGULAR site for 25 cents.
 <br>Students can also buy a PREMIUM site for 75 cents.
-<br>Students can go further and buy an ENTERPRISE site for $1.50.
+<br>Students can go further and buy an ENTERPRISE site for $2.00.
+<br>
+<br>The website address for all student sides (besides ENTERPRISE) will be YOURHANDLE.pisdsites.rf.gd
 <br>
 <br>Normal Sites Include:
 <br>
@@ -34,4 +36,5 @@ A cheap website service made specifically for Prosper ISD. It's kinda like MySpa
 <br>Unlimited Characters
 <br>Cool ENTERPRISE Badge
 <br>Ability To See And Edit HTML5 Elements (Main ENTERPRISE Selling Point)
+<br>Rids Of .pisdsites. Subdomain (YOURHANDLE.rf.gd)
 <br>(All ENTERPRISE Add-On's Are Optional)
